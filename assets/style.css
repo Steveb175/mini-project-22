@@ -1,0 +1,45 @@
+
+header {
+    background-color: rgb(133, 134, 59);
+    margin-bottom: 40px;
+    padding: 5px
+}
+
+footer {
+    background-color: rgb(133, 134, 59);
+    text-align: center;
+}
+
+.contact-form {
+    position: relative;
+    left: 750px;
+}
+
+.center {
+    text-align: center;
+}
+
+#dog {
+    /*code below centers the text within the box*/
+    text-align: center;
+    width: 50%;
+    background-color: rgb(184, 199, 127);
+    border: 10px solid black;
+    /*code below centers the box itself*/
+    margin: auto;
+}
+
+#email {
+    background-color: rgb(184, 199, 127);
+    border: 2px solid black;
+}
+
+#github {
+    background-color: rgb(184, 199, 127);
+    border: 2px solid black;
+}
+
+#portfolio {
+    background-color: rgb(184, 199, 127);
+    border: 2px solid black;
+}
