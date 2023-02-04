@@ -1,4 +1,6 @@
-
+* {
+    text-align: center;
+}
 header {
     background-color: rgb(133, 134, 59);
     margin-bottom: 40px;
@@ -12,7 +14,7 @@ footer {
 
 .contact-form {
     position: relative;
-    left: 750px;
+    text-align: right;
 }
 
 .center {
